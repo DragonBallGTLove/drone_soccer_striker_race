@@ -1,4 +1,3 @@
-
 const CONFIG = {
     easy: { ringCount: 9, trackLength: 840, speedMultiplier: 0.75 },
     medium: { ringCount: 12, trackLength: 1080, speedMultiplier: 1 },
